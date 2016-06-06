@@ -1,0 +1,54 @@
+header{
+background-image: url(http://2.bp.blogspot.com/-z4cwPdJiTaw/VdTVH37gB-I/AAAAAAAAzZc/Hx7uQ2mMfDc/s1600/Plano-De-Fundo-Minimalista-1920x1080.png);
+color: white;
+text-align: center;
+padding: 5px;
+}
+nav{
+line-height: 30px;
+background-color: #DCDCDC;
+color: #4169E1;
+height: 300px;
+width: 200px;
+float:left;
+margin:5px;
+text-align: center;
+line-height: 200%;
+padding:20px;
+font-size: 20px;
+float:left;
+}
+.centro{
+text-align:center;
+}
+hr {
+      color: #808080;
+      background-color: #808080;
+      height: 5px;
+    }
+	
+section{
+background-color: #B0C4DE;
+margin:5px;
+padding: 10 px;
+float: left;
+padding-left: 20px;
+padding-right: 20px;
+font-size: 18px;
+}
+footer{
+background-color:black;
+color: white;
+clear: both;
+text-align: center;
+padding: 10px;}
+.mac{
+background-color: blue;
+color: white;
+padding:20px;
+}
+.ara{
+background-color: black;
+color: white;
+padding:20px;
+}
